@@ -34,7 +34,7 @@ flowchart TD
     D --> F[Clona template e renomeia\npadrão da empresa]
     E --> F
     F --> G[Move documento\npara pasta correta]
-    G --> H[Substituição de variáveis\n{{SERIAL}}, {{HOSTNAME}}, etc.]
+    G --> H[Substituição de variáveis\nSERIAL, HOSTNAME, etc.]
     H --> I[Dispara solicitação\nde assinatura eletrônica]
     I --> J[Notifica responsáveis\npor e-mail]
 ```
