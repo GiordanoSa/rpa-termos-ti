@@ -54,8 +54,10 @@ python src/automacao_termos_ti.py
 
 > Antes de rodar, configure as variáveis em `URL_SISTEMA`, `URL_TPL_*` e `PASTA_NUVEM_*` no início do script com os valores do seu próprio ambiente.
 
-## 📈 Resultado
+📊 Métricas
+Tempo de execução: processo que levava em média ~8 a 10 minutos manuais por máquina passou a rodar em ~40 segundos, do início da extração até o disparo da assinatura.
+Digitação manual: eliminação de praticamente 100% do preenchimento manual de campos nos documentos.
+Padronização: nomenclatura de arquivos 100% consistente entre execuções, sem variação por digitação humana.
+Rastreabilidade: cada termo gerado fica automaticamente organizado na pasta correta, pronto para auditoria.
 
-- Eliminação de ~100% da digitação manual de documentos.
-- Padronização de nomenclatura de arquivos e organização automática em pastas.
-- Redução do tempo operacional de minutos para segundos por máquina processada.
+> Números aproximados, baseados em observação do processo manual anterior — sem exposição de volumes reais de chamados ou dados da empresa.
