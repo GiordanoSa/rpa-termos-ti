@@ -2,7 +2,7 @@
 
 **Categoria:** Automação aplicada à Gestão de Identidade e Acesso (IAM)
 **Stack:** Python, Selenium
-**Repositório:** [link do GitHub aqui]
+**Repositório:** [rpa-termos-ti](https://github.com/GiordanoSa/rpa-termos-ti)
 
 ## Resumo
 Automação de ponta a ponta do processo de entrega, troca e devolução de hardware corporativo, incluindo a orquestração de assinatura eletrônica dos termos de responsabilidade. O projeto toca diretamente em ciclo de vida de identidade: ao automatizar onboarding e, principalmente, offboarding, reduz o risco de ativos "órfãos" (sem rastreabilidade) após o desligamento de um colaborador — um problema clássico de governança de acesso.
@@ -17,5 +17,3 @@ Automação de ponta a ponta do processo de entrega, troca e devolução de hard
 - Eliminação de ~100% da digitação manual.
 - Zero inconsistência de nomenclatura entre documentos.
 
-## Link do projeto
-[Adicionar link do repositório GitHub após o push]
